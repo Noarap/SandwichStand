@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "49652662718",
+    "firebase_url": "https://ex7-postpc-default-rtdb.firebaseio.com",
+    "project_id": "ex7-postpc",
+    "storage_bucket": "ex7-postpc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49652662718:android:bf882e292925f38e58f9ef",
+        "android_client_info": {
+          "package_name": "huji.postpc.y2021.noa.ex7"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "49652662718-u7ruh65ktk8ea2b5lvcshbpkmrlmfh4l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDerEVwlkQMuRgbPB8rbvK6sIeLdbNbCPs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "49652662718-u7ruh65ktk8ea2b5lvcshbpkmrlmfh4l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49652662718:android:05349e3e8f887e0158f9ef",
+        "android_client_info": {
+          "package_name": "postpcEx7.New"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "49652662718-u7ruh65ktk8ea2b5lvcshbpkmrlmfh4l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDerEVwlkQMuRgbPB8rbvK6sIeLdbNbCPs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "49652662718-u7ruh65ktk8ea2b5lvcshbpkmrlmfh4l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
